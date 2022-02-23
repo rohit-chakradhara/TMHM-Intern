@@ -1,1 +1,2 @@
-# TMHM-Intern
+# TMHM - Graphic Designer Intern
+
